@@ -1,0 +1,29 @@
+QPushButton#imageBtn,QPushButton#sqlBtn,QPushButton#btnOK,QPushButton#btnSaveSql,QPushButton#delBtn {
+  color: #25A5F7;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #25A5F7;
+  font-size: 24px;
+  font-family: SimSuncss;
+}
+
+QPushButton#imageBtn,QPushButton#sqlBtn {
+  border-radius: 25px;
+  font-size: 24px;
+}
+
+QPushButton#btnOK,QPushButton#btnSaveSql,QPushButton#delBtn {
+  border-radius: 10px;
+  font-size: 16px;
+}
+
+QPushButton#imageBtn:hover,QPushButton#sqlBtn:hover,QPushButton#btnOK:hover,QPushButton#btnSaveSql:hover,QPushButton#delBtn:hover {
+  color: #fff;
+  background-color: #25A5F7;
+  border-color: #25A5F7
+}
+
+
+
+
+
